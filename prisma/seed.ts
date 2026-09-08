@@ -440,7 +440,7 @@ const cars = [
     charging: "120 kW DC Fast Charging",
     description:
       "A sleek electric sedan combining aerodynamic design and modern technology.",
-    img: "https://wzszopkfpswtttmpqaeg.supabase.co/storage/v1/object/public/autovault/Jetour_Dashing.jpg,
+    img: "https://wzszopkfpswtttmpqaeg.supabase.co/storage/v1/object/public/autovault/Jetour_Dashing.jpg",
     features: [
       "Frameless doors",
       "AR HUD",
